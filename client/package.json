@@ -15,9 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "node api/server.js",
-    "dev": "nodemon api/server.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION = false && npm run install -- prefix client && npm run build --prefix client",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
