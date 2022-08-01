@@ -1,5 +1,4 @@
-# Not to do full stack (MERN) app
-# not-to-do-v2-final-28thMay
+# My Not to do list  fullstack (MERN) app
 
 # How to Use?
 
